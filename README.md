@@ -21,7 +21,7 @@ OmniFile AI is a **powerful AI-driven app** that lets you chat with your documen
 
 🎯 **Perfect for:** **Researchers, Professionals, Students, and Developers**  
 
-![App Screenshot](assets/demo-screenshot.png)  
+![App Screenshot](screenshot.png)  
 
 ---
 
