@@ -1,5 +1,7 @@
 # **🚀 OmniFile AI – Your Intelligent File Analyst 🤖**  
 
+![OmniFile AI Logo](robot.jpg)
+
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/OmniFile-AI?style=for-the-badge)](https://github.com/yourusername/OmniFile-AI/stargazers)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)  
 [![Streamlit](https://img.shields.io/badge/Deployed_on-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://omnifile-ai.streamlit.app/)  
