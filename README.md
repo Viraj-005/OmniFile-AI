@@ -88,7 +88,7 @@ Give it a try and **supercharge your document analysis!** 🚀
 
 💡 Found a bug? Want to add a feature? Feel free to **fork and contribute!**  
 
-📧 Contact: **your.email@example.com**  
+📧 Contact: **virajinduruwa2@gmail.com**  
 🌟 If you like this project, **give it a star on GitHub!** ⭐  
 
 ---
