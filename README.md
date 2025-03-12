@@ -1,119 +1,91 @@
-Here's a professional, visually appealing README.md for your OmniFile AI project:
+# **🚀 OmniFile AI – Your Intelligent File Analyst 🤖**  
 
-```markdown
-# OmniFile AI 🤖
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/OmniFile-AI?style=for-the-badge)](https://github.com/yourusername/OmniFile-AI/stargazers)  
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)  
+[![Streamlit](https://img.shields.io/badge/Deployed_on-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://omnifile-ai.streamlit.app/)  
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/OmniFile-AI?style=for-the-badge)](https://github.com/yourusername/OmniFile-AI/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Streamlit](https://img.shields.io/badge/Deployed_on-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://omnifile-ai.streamlit.app/)
+🔍 **Analyze, Extract, and Interact with Your Documents Like Never Before!**  
+OmniFile AI is a **powerful AI-driven app** that lets you chat with your documents, extract insights, and generate smart visualizations – all in one place! 🚀  
 
-**Your Intelligent Document Analysis Companion**  
-Unlock insights from documents using AI-powered analysis and visualization.
+---
 
-![App Screenshot](assets/demo-screenshot.png)
+## **✨ Why OmniFile AI?**  
 
-## 🚀 Features
+✅ **Supports Multiple File Formats** – PDFs, DOCX, PPTX, XLSX, Code Files, and more!  
+✅ **AI-Powered Chat** – Ask **natural language questions** about your documents.  
+✅ **Smart Visualizations** – Convert raw data into **charts, tables, and summaries** automatically.  
+✅ **Deep Document Analysis** – Extract **key points, insights, and summaries** effortlessly.  
+✅ **Real-Time Collaboration** – Share analysis with teammates instantly!  
+✅ **Fast & Secure** – All processing is done **privately and efficiently**.  
 
-- **Multi-Format Support**  
-  📚 Analyze PDF, DOCX, PPTX, XLSX, RTF, Code files, and more!
-- **Smart Visualizations**  
-  📊 Automatic charts, diagrams, and tables generation
-- **Natural Language Queries**  
-  💬 Ask questions in plain English
-- **Advanced Document Parsing**  
-  🔍 Extract insights from complex documents
-- **Real-Time Collaboration**  
-  👥 Share analysis sessions
-- **Cross-Platform**  
-  🌐 Web-based access from any device
+🎯 **Perfect for:** **Researchers, Professionals, Students, and Developers**  
 
-## 📥 Installation
+![App Screenshot](assets/demo-screenshot.png)  
 
-1. Clone the repository:
+---
+
+## **🚀 Getting Started**  
+
+### **🔧 Installation**  
+
+1️⃣ **Clone the Repository:**  
 ```bash
 git clone https://github.com/yourusername/OmniFile-AI.git
 cd OmniFile-AI
-```
+```  
 
-2. Install dependencies:
+2️⃣ **Install Dependencies:**  
 ```bash
 pip install -r requirements.txt
-```
+```  
 
-3. Set up environment variables:
+3️⃣ **Run the App:**  
 ```bash
-echo "GEMINI_API_KEY=your_api_key_here" > .env
-```
+streamlit run app.py
+```  
 
-## 🛠️ Usage
+---
 
-1. **Upload Documents**  
-   Drag-and-drop files through the intuitive interface
-   
-2. **Ask Questions**  
-   Examples:
-   - "Show sales trends as a line chart"
-   - "Create a workflow diagram from the process document"
-   - "Compare Q1 and Q2 results in a table"
+## **📂 Supported File Formats**  
 
-3. **Explore Insights**  
-   - Interactive visualizations
-   - Export results as PNG/CSV
-   - Session history tracking
+| 📄 Documents | 🧑‍💻 Code Files | 📊 Data Files |
+|-------------|---------------|-------------|
+| PDF, DOCX, PPTX, TXT, RTF | Python, JavaScript, JSX, Java, GO, ipynb | CSV, XLSX |
 
-## ⚙️ Configuration
+---
 
-Add to `.env` file:
-```ini
-GEMINI_API_KEY=your_google_ai_key
-```
+## **💡 How It Works**  
 
-**Get API Key**:  
-1. Visit [Google AI Studio](https://aistudio.google.com/)
-2. Create API key for Gemini
-3. Copy to `.env` file
+1️⃣ **Upload your files** – Drag & drop or browse manually.  
+2️⃣ **Ask AI-powered questions** – Get instant answers from documents!  
+3️⃣ **Generate visual insights** – Charts, tables, and key highlights.  
+4️⃣ **Download results** – Save summaries, extractions, and insights.  
 
-## 🌐 Deployment
+---
 
-1. Fork this repository
-2. Create [Streamlit](https://streamlit.io/cloud) account
-3. New App → Connect GitHub repo
-4. Set environment secrets:
-   - `GEMINI_API_KEY`
+## **📸 Demo Preview**  
 
-## 🤝 Contributing
+🔹 **Drag & Drop File Upload**  
+🔹 **Real-time AI Answers**  
+🔹 **Smart Visualizations & Summaries**  
 
-We welcome contributions!  
-1. Fork the project
-2. Create feature branch:
-```bash
-git checkout -b feature/amazing-feature
-```
-3. Commit changes:
-```bash
-git commit -m 'Add amazing feature'
-```
-4. Push to branch:
-```bash
-git push origin feature/amazing-feature
-```
-5. Open Pull Request
+![App Demo](assets/demo.gif)  
 
-## 📜 License
+---
 
-Distributed under MIT License. See `LICENSE` for more information.
+## **🌍 Try it Live!**  
 
-## 📧 Contact
+🔗 **[OmniFile AI – Live Demo](https://omnifile-ai.streamlit.app/)**  
 
-Project Maintainer - [Your Name](mailto:your.email@example.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+Give it a try and **supercharge your document analysis!** 🚀  
 
-## 🙏 Acknowledgments
+---
 
-- Google Gemini API Team
-- Streamlit Community
-- Open Source Contributors
-```                                        
-  
-  
+## **🤝 Contribute & Support**  
+
+💡 Found a bug? Want to add a feature? Feel free to **fork and contribute!**  
+
+📧 Contact: **your.email@example.com**  
+🌟 If you like this project, **give it a star on GitHub!** ⭐  
+
+---
