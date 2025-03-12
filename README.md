@@ -13,7 +13,7 @@ OmniFile AI is a **powerful AI-driven app** that lets you chat with your documen
 ---
 
 ⚡ Powered by Google Gemini AI
-<p align="center"> <img src="assets/gemini_logo.png" alt="Google Gemini API" width="200"> </p>
+<p align="center"> <img src="geminilogo.png" alt="Google Gemini API" width="200"> </p>
 OmniFile AI utilizes the Google Gemini API to process and understand documents efficiently, ensuring:
 ✔ Accurate & Fast Responses using cutting-edge AI
 ✔ Contextual Understanding of documents, PDFs, and even code files
