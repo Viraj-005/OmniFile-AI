@@ -1,6 +1,9 @@
 # **🚀 OmniFile AI – Your Intelligent File Analyst 🤖**  
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/OmniFile-AI?style=for-the-badge)](https://github.com/yourusername/OmniFile-AI/stargazers)  
+<p align="center">
+  <img src="robot.jpg" alt="OmniFile AI" width="300"> 
+</p>  
+  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)  
 [![Streamlit](https://img.shields.io/badge/Deployed_on-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://omnifile-ai.streamlit.app/)  
 
@@ -20,7 +23,7 @@ OmniFile AI is a **powerful AI-driven app** that lets you chat with your documen
 
 🎯 **Perfect for:** **Researchers, Professionals, Students, and Developers**  
 
-![App Screenshot](assets/demo-screenshot.png)  
+![App Screenshot](screenshot.png)  
 
 ---
 
